@@ -3,10 +3,10 @@
 
 GNUv2.0 License. Made by RYuh
 
-emu-v7-4.py — Unicorn-емуляція прошивки Beurer PO 80 (GD32F350, Cortex-M) + GUI на tkinter.
+emu-v7-9.py — Unicorn-емуляція прошивки Beurer PO 80 (GD32F350, Cortex-M) + GUI на tkinter.
 
-Запуск:   python emu-v7-4.py [flash.bin]
-Без вікна: python emu-v7-4.py flash.bin --headless 6000 --shot screen.png   (6000 мс емульованого часу)
+Запуск:   python emu-v7-9.py [flash.bin]
+Без вікна: python emu-v7-9.py flash.bin --headless 6000 --shot screen.png   (6000 мс емульованого часу)
 
 GUI: екран ST7789 240x240 (SPI1, D/C=PC6), кнопки (затискаються мишею або клавішами 1-4,
 права кнопка миші = "залипання"), поворот екрана (R), пауза (Пробіл), масштаб (+/-),
