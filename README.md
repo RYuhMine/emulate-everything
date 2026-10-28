@@ -14,6 +14,7 @@ A Python-based emulator for the **Beurer PO 80 pulse oximeter**, designed to run
 ### Requirements
 
 - Python 3
+- Unicorn Python library
 - The emulator's Python script and firmware binary (`.bin`)
 
 ### Running the Emulator
